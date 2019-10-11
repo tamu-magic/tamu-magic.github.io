@@ -3618,11 +3618,11 @@ input, select, textarea {
 		}
 
 			#wrapper > header h2 {
-				font-size: 1.25em;
+				font-size: 1.2em;
 			}
 
 			#wrapper > header p {
-				font-size: 0.8em;
+				font-size: 0.55em;
 			}
 
 	}
@@ -3701,7 +3701,7 @@ input, select, textarea {
 			}
 
 			#wrapper > header2 p {
-				font-size: 0.8em;
+				font-size: 0.65em;
 			}
 
 	}
